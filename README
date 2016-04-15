@@ -1,0 +1,9 @@
+Build linux kernel
+change directory to lichee and execute:
+$ ./build.sh -p sun7i_android
+
+
+
+
+
+
